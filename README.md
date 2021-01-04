@@ -1,3 +1,6 @@
+Forked Firefox with disabled/translucent status bar.
+
+
 # Firefox for Android
 
 [![Task Status](https://github.taskcluster.net/v1/repository/mozilla-mobile/fenix/master/badge.svg)](https://github.taskcluster.net/v1/repository/mozilla-mobile/fenix/master/latest)
